@@ -7,6 +7,8 @@ body{
     background-color: #eee;
     border: #eee;
     font-family: 'Source Sans Pro';
+    width: 700px;
+    margin-left: 450px;
 }
 .newspaper-container{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -22,8 +24,7 @@ h1{
 }
 li{
    display: inline-block;
-  padding: 0.2%;
-  margin-left: 6%;
+   padding: 5.3px;
 }
 a{
     color: #777;
@@ -41,18 +42,6 @@ h5{
 
 img{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-.image1 {
-   width: 500px;
-  height: auto;
-}
-.image2 {
- width: auto;
- height: auto;
-}
-.image3 {
-width: auto;
-height: auto;
 }
 .more-articles{
     display: grid;
