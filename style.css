@@ -6,15 +6,18 @@
 body{
     background-color: #eee;
     border: #eee;
+    font-family: 'Source Sans Pro';
 }
 .newspaper-container{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 10px;
 }
-
+.date{
+    font-family: 'Source Sans Pro';
+}
 h1{
     text-align: center;
-    font-family:  Abril Fatface;
+    font-family:  'Abril Fatface';
     font-size: 50px;
 }
 li{
@@ -29,7 +32,7 @@ a:hover{
     color: black;
 }
 h2{
-    font-family: Roboto Slab;
+    font-family: 'Roboto Slab';
     font-size: 230%;
 }
 h5{
@@ -63,8 +66,6 @@ height: auto;
     display: flex;
     flex-direction: column;
 }
-
-
 
 
 
